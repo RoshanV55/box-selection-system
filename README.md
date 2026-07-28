@@ -174,4 +174,4 @@ The project includes an interactive web dashboard for real-time visual inspectio
 
         Live API testing form to input products/quantities and instantly render the spatial layout.
 
-        ![alt text](image.png)
+        ![3D Spatial Simulator Dashboard](image.png)
