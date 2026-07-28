@@ -1,5 +1,8 @@
 Markdown
 
+
+
+
 # AI-Assisted Box Selection System
 
 A robust Django and Django REST Framework (DRF) backend service that automatically determines the most cost-effective shipping box for customer orders based on physical dimensions, volumetric constraints, weight capacity, and 3D rotational fitting algorithms.
@@ -174,4 +177,4 @@ The project includes an interactive web dashboard for real-time visual inspectio
 
         Live API testing form to input products/quantities and instantly render the spatial layout.
 
-        <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5968ead6-8f95-4871-bc48-dbb04c1aad57" />
+        
